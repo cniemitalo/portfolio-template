@@ -1,12 +1,12 @@
 // Navbar Logo
-export const logo = "JD"
+export const logo = "CN"
 
 // About me info
-export const name = "Jane Doe"
+export const name = "Carlie Niemitalo"
 export const title1 = "a developer"
 export const title2 = "a student"
 export const title3 = "a creator"
-export const shortDesc = "I'm currently a student at the University of Toronto studying Computer Science."
+export const shortDesc = "I'm currently a student at the University of Wyoming studying Computer Science."
 export const resumeName = "resume.txt"
 
 // About section
@@ -19,7 +19,7 @@ export const certifications = ["Full Stack Web Development Bootcamp", "AWS Certi
 export const projectsData = [
     {
       id: 1,
-      title: "React Portfolio Website",
+      title: "React JS Website",
       description: "Project 1 description",
       image: "/images/projects/1.png",
       tag: ["All", "Web", "Other"],
@@ -75,6 +75,6 @@ export const projectsData = [
 
 
 // Social Links
-export const githubUrl = "github.com"
+export const githubUrl = "https://github.com/cniemitalo"
 export const linkedinUrl = "linkedin.com"
-export const email = "gmail.com"
+export const email = "cniemitalo1@gmail.com"
